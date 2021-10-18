@@ -1,0 +1,13 @@
+Steps:
+1. Open command prompt and Install mocha JavaScript
+npm i --global mocha
+2. Make directory
+mkdir test
+3. Navigate to directory.
+cd test
+4. Initialized test project
+npm init
+5. Defined package name & description
+6. Save project with name ‘test’
+7. Add mocha chai files into your project ‘test’
+npm install mocha chai --save-dev
